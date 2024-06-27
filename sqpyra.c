@@ -1,0 +1,1 @@
+/* rotating square pyramid out of ascii */
